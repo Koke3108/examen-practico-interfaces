@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #343a40;
+    margin-bottom: 20px;
+}
+
+#map {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
